@@ -6,6 +6,10 @@ Make a python3.11 virtual env and install requirements:
 
     pip install -r requirements.txt
 
+Install node requirements:
+
+    npm install
+
 Run node app:
 
     node server.js
