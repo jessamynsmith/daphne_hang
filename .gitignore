@@ -34,4 +34,4 @@ nosetests.xml
 venv/*
 .env
 
-emails/*
+node_modules/*

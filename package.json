@@ -1,0 +1,15 @@
+{
+  "name": "daphne_hang",
+  "version": "1.0.0",
+  "description": "API that hangs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jessamyn Smith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
